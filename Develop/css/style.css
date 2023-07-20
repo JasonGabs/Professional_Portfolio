@@ -1,0 +1,36 @@
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color:rgb(195, 216, 226); 
+    
+}
+
+
+header {
+    display: block;
+    border-style: solid;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+header h1 {
+    display: block;
+    background-color: rgb(100, 109, 233);
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+header nav ul {
+    display: block;
+    background-color: rgb(129, 136, 235);
+    font-size: 20px;
+    padding: 10px;
+    position: relative;
+    margin: 0;
+}
+header nav ul a {
+    margin-right: 20px;
+    float: inline-start;
+}
