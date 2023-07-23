@@ -1,2 +1,2 @@
 # Professional_Portfolio
-Challenge 2 for the bootcamp
+A portfolio of projects for Jason Gabianelli
