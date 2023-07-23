@@ -34,6 +34,7 @@ nav a {
     text-align: center;
     padding: 14px;
   }
+
 main {
     display: block;
     flex-wrap: wrap;
@@ -47,6 +48,7 @@ article {
     color: navy;
     flex-wrap: wrap;
 }
+
 article p {
     font-size: 24px;
 }
