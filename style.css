@@ -61,7 +61,7 @@ article p {
     border-width: 1px;
     background: #2d82d1;
     color: #fff;
-    height: 200px;
+    height: 400px;
     width: 200px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     max-width: 200px;
@@ -75,3 +75,10 @@ article p {
     height: 150px;
   }
   
+  section p {
+    display: flex;
+    position: absolute;
+    max-width: 190px;
+    max-height: 190px;
+    background-color: #2d82d1;
+  }
